@@ -12,4 +12,4 @@ This repository contains downloads and public installation instructions only. Th
 
 The app checks this repository for updates without requiring a GitHub account. Update installers are signed and verified by DeckBuilder before installation.
 
-Downloads will appear here after the first build using this repository completes.
+If an older installation reports **Could not fetch a valid release JSON from the remote**, download the latest installer above and install it over the existing app once. This switches the app to the public update feed; your decks, collection and card data are kept. Future updates install through **Settings → App updates → Update and restart**.
